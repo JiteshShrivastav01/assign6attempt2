@@ -1,0 +1,16 @@
+.Button{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 5rem;
+    margin: 5px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+tr{
+    border: 1px solid black;
+}
